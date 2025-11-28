@@ -1,3 +1,5 @@
 aiolimiter
 demoji
 emoji
+httpx
+requests
